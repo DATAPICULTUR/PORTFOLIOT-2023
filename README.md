@@ -1,4 +1,4 @@
-📈 Portfolio de Data Science de Gillaux Clément
+📈 Portfolio de Data Science
 
 🔍 Data Analyst passionné(e) par la transformation des données brutes en décisions stratégiques. Maîtrise des outils de data science et engagement envers l'excellence analytique.
 
